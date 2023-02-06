@@ -1,3 +1,5 @@
 zoom_clonecoding/node_modules/
 *.json
+DS_Store
 .DS_Store
+*.DS_Store
